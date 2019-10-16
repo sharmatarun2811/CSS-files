@@ -1,5 +1,5 @@
 # CSS-Files
-## This repo maintains CSS files for various animations and effects.
+## This repo maintains codes for various animations and effects.
 
 ## Do check the instructions before requesting for PR.
 
